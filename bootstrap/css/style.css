@@ -1,0 +1,71 @@
+.navbar{
+	background-color: #24292e !important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar input.form-control{
+	background: rgba(224, 224, 224, 0.2);
+}
+
+body {
+	background: url('../images/background.svg'),#2b3137;
+}
+
+.big-text{
+    font-size: 64px!important;
+    color: white;
+    font-weight: 400;
+}
+
+.small-text{
+    font-size: 20px;
+    font-weight: 400;
+    color: grey;
+}
+
+.navbar-brand img {
+	height: 35px;
+	background-color: white;
+}
+
+.login-form{
+	   background: rgb(250, 251, 252);
+}
+
+.login-form p{
+	font-size: 12px;
+}
+
+.py-1 {
+    padding-top: 4px!important;
+    padding-bottom: 4px!important
+}
+
+.p-2 {
+    padding: 8px!important
+}
+
+.form-control-search {
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #fafcff;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.fcolor {
+    color: #787878;
+}
+
+.fmaily {
+    font-family: Courier New;
+}
